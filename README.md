@@ -46,14 +46,26 @@ Yapay zekâ ve mobil teknolojileri bir araya getiren pratik çözümler üzerine
 
 ---
 
-### 📈 GitHub Stats
+### 🟩 Katkı Takvimi (Activity Calendar)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/bilgegunes" alt="Bilge'nin Katkı Takvimi" width="100%" />
+</p>
+
+### 📈 GitHub Overview
+
+| Metrik | Durum |
+| :--- | :--- |
+| **Profil Ziyaretçileri** | ![Profile Views](https://komarev.com/ghpvc/?username=bilgegunes&color=88C0D0&style=flat-square&label=Ziyaret%C3%A7i) |
+| **Kodlama Serisi (Streak)** | ![Streak](https://img.shields.io/badge/Aktif%20Seri-Devam%20Ediyor-A3BE8C?style=flat-square&logo=github) |
+| **Toplam Katkı** | ![Contributions](https://img.shields.io/badge/Katkılar-2026%20Aktif-EBCB8B?style=flat-square&logo=git) |
+| **Birincil Dil** | ![Language](https://img.shields.io/badge/Odak-Python%20%7C%20Dart-5E81AC?style=flat-square) |
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilgegunes&show_icons=true&theme=nord&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgegunes&layout=compact&theme=nord&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilgegunes&theme=nord&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
 
 ### 📫 İletişim
 
