@@ -46,12 +46,6 @@ Yapay zekâ ve mobil teknolojileri bir araya getiren pratik çözümler üzerine
 
 ---
 
-### 🟩 Katkı Takvimi (Activity Calendar)
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/bilgegunes" alt="Bilge'nin Katkı Takvimi" width="100%" />
-</p>
-
 ### 📈 GitHub Overview
 
 | Metrik | Durum |
